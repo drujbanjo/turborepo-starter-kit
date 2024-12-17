@@ -10,7 +10,7 @@ Package manager - `yarn`
 
 1. Clone the repository `git clone https://github.com/drujbanjo/turborepo-starter-kit.git`
 2. Go to the cloned directory
-3. Write `yarn install` in the directory `/`
+3. Write `yarn install`
 4. Run `yarn dev` in root directory for dev development
 5. Follow the link [http://localhost:3000](http://localhost:3000) to view the site and follow the link [http://localhost:4200](http://localhost:4200) to view the server
 
